@@ -2,7 +2,7 @@
   <img src="https://images.weserv.nl/?url=github.com/leipishu.png&w=200&h=200&fit=cover&mask=circle" width="120" alt="Leipishu" />
 </div>
 
-<h1 align="center">雷劈树 | Leipishu</h1>
+<h1 align="center">Leipishu</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -16,7 +16,7 @@
 
 <p align="center">
   一名对技术充满好奇的全栈开发者，喜欢用代码解决问题、把想法变成现实。<br/>
-  <b>@override</b> —— 不只是重写方法，也是重写自己的边界。
+  <b>@Override</b>
 </p>
 
 <p align="center">
@@ -33,6 +33,7 @@
   <img src="https://shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white&variant=secondary" />
   <img src="https://shieldcn.dev/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&variant=secondary" />
   <img src="https://shieldcn.dev/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&variant=secondary" />
+  <img src="https://shieldcn.dev/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&variant=secondary" />
 
   <br/>
 
@@ -43,11 +44,21 @@
   <br/>
 
   <!-- IDE / 工具 -->
-  <!-- VS Code：使用原生图标 ri:VscVscode（备用：visualstudiocode） -->
   <img src="https://shieldcn.dev/badge/VS_Code-0078D4.svg?logo=ri:VscVscode&logoColor=white&variant=outline" />
   <img src="https://shieldcn.dev/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white&variant=branded" />
   <img src="https://shieldcn.dev/badge/IntelliJ_IDEA-000000.svg?logo=intellijidea&logoColor=white&variant=branded" />
   <img src="https://shieldcn.dev/badge/WebStorm-000000.svg?logo=webstorm&logoColor=white&variant=branded" />
+</div>
+
+<h3 align="center">Minecraft</h3>
+
+<p align="center">
+  Minecraft Mod Developer & Launcher Contributor.
+</p>
+
+<div align="center">
+  <img src="https://shieldcn.dev/badge/Minecraft_Lover_Player-62B47A.svg?logo=minecraft&logoColor=white&variant=secondary" />
+  <a href="https://www.curseforge.com/members/leipishu/projects"><img src="https://shieldcn.dev/badge/Mod_Developer-62B47A.svg?logo=curseforge&logoColor=white&variant=secondary" /></a>
 </div>
 
 <h3 align="center">Workspace</h3>
@@ -55,7 +66,6 @@
 <div align="center">
   <img src="https://shieldcn.dev/badge/Intel-Core_i9_13980HX-0071C5.svg?logo=intel&logoColor=white&variant=secondary" />
   <img src="https://shieldcn.dev/badge/NVIDIA-RTX4060_Laptop-76B900.svg?logo=nvidia&logoColor=white&variant=secondary" />
-  <!-- Windows：优先用官方 slug，备用方案为 ri:FaWindows -->
   <img src="https://shieldcn.dev/badge/Windows-11-0078D6.svg?logo=windows&logoColor=white&variant=secondary" />
 </div>
 
